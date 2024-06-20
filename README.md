@@ -1,2 +1,2 @@
-<img src="https://github.com/bmson/bmson/assets/890821/a3789308-10f2-4ccd-ad7a-a9a03c05c007" alt="portrait" width="250px" />
-
+> [!CAUTION]
+> `Error: Critical Error: Operation failed due to an unexpected issue during the execution of the 'processData' function. Possible causes include invalid input data types, network request failures, insufficient permissions, or corrupted state in the application's context. Please check the input data, verify network connectivity, and ensure all necessary permissions are granted. Refer to the application logs for more detailed information.`
