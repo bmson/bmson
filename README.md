@@ -1,2 +1,3 @@
 > [!CAUTION]
-> `Error: Critical Error: Operation failed due to an unexpected issue during the execution of the 'processData' function. Possible causes include invalid input data types, network request failures, insufficient permissions, or corrupted state in the application's context. Please check the input data, verify network connectivity, and ensure all necessary permissions are granted. Refer to the application logs for more detailed information.`
+> `Error: The operation failed due to a serious and unexpected issue in the 'processData' function. This could be caused by invalid input, network glitches, or perhaps just the universe conspiring against you. Maybe you forgot to sacrifice a byte to the code gods? Check your inputs, network, and possibly your life choices.
+`
